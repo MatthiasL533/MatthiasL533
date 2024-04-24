@@ -1,16 +1,22 @@
 ### Hi there 👋
+# 👨‍💻 Matthias Louws
 
-<!--
-**MatthiasL533/MatthiasL533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ℹ️ About Me
+Enthusiastic Information Science student experienced in a variety of programming languages and technologies, with a focus on web development. Constantly learning and exploring new technologies to expand my skill set.
 
-Here are some ideas to get you started:
+## 💼 Skills
+- Languages: Python
+- Web Development: HTML/CSS, Vue.js, React, Flask
+- UI: Bootstrap, Vuetify
+- Database: PostgreSQL
+- Version Control: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Photography website]([link](https://www.matthias.photography)): A website to display my photographs and other skills. Built with HTML, Bootstrap, JavaScript and deployed using Vercel. 
+- [FAIRDatabase](https://github.com/SheratonMV/FAIRDatabase): Developing the frontend for a Microbiome Research Database. 
+
+
+## 📞 Contact
+- Email: matthiaslouws@gmail.com
+- LinkedIn: [Matthias Louws](https://www.linkedin.com/in/matthiaslouws/)
+- Portfolio: [Photography website](https://www.matthias.photography)
