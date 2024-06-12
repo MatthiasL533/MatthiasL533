@@ -6,8 +6,8 @@ Enthusiastic Information Science student experienced in a variety of programming
 
 ## 💼 Skills
 - Languages: Python
-- Web Development: HTML/CSS, Vue.js, React, Flask
-- UI: Bootstrap, Vuetify
+- Web Development: HTML/CSS, Flask, Javascript
+- UI: Bootstrap
 - Database: PostgreSQL
 - Version Control: Git, GitHub
 
