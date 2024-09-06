@@ -2,7 +2,7 @@
 # 👨‍💻 Matthias Louws
 
 ## ℹ️ About Me
-Enthusiastic Information Science student experienced in a variety of programming languages and technologies, with a focus on web development. Constantly learning and exploring new technologies to expand my skill set.
+Enthusiastic Business Informatics student experienced in a variety of programming languages and technologies, with a focus on web development. Constantly learning and exploring new technologies to expand my skill set.
 
 ## 💼 Skills
 - Languages: Python
