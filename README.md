@@ -13,8 +13,9 @@ Enthusiastic Business Informatics student experienced in a variety of programmin
 
 ## 🚀 Projects
 - [Photography website](matthias.photography): A website to display my photographs and other skills. Built with HTML, Bootstrap, JavaScript and deployed using Vercel. 
-- [FAIRDatabase](https://github.com/SheratonMV/FAIRDatabase): Developing the frontend for a Microbiome Research Database. 
-
+- [FAIRDatabase](https://github.com/SheratonMV/FAIRDatabase): Developing the frontend for a Microbiome Research Database.
+- [FAIRDatabase Portal](https://github.com/TeamSeedBiomed/fairdatabase-portal-main): A landing page for the FAIRDatabase
+- [SEEDBiomed](https://github.com/TeamSeedBiomed/SEEDBiomed): Maintaining the networking website for the SEEDBiomed group. 
 
 ## 📞 Contact
 - Email: matthiaslouws@gmail.com
