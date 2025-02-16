@@ -6,8 +6,8 @@ Enthusiastic Business Informatics student experienced in a variety of programmin
 
 ## 💼 Skills
 - Languages: Python
-- Web Development: HTML/CSS, Flask, Javascript
-- UI: Bootstrap
+- Web Development: HTML/CSS, Flask, Javascript, React, Next.JS
+- UI: Bootstrap, Tailwind CSS
 - Database: PostgreSQL
 - Version Control: Git, GitHub
 
